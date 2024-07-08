@@ -1,4 +1,4 @@
-# ed-tp1
+# Trabalho 1 de Estrutura de Dados
 
 Para a utilização do programa, é necessário saber o seu Sistema Operacional.
 
